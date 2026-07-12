@@ -11,9 +11,8 @@ Este repositorio contiene la resolución de tres casos prácticos de Machine Lea
 ## Contenido del repositorio
 
 ```
-├── Eigenfaces_Olivetti_PCA.ipynb   # Notebook con los 3 casos resueltos
-├── README.md                       # Este archivo
-└── informe/                        # Informe PDF entregado en el aula virtual
+├── trabajo5.ipynb   # Notebook con los 3 casos resueltos
+├── README.md                       # Este archivo                        
 ```
 
 ## Caso 1 — Clustering Jerárquico (20 Newsgroups)
@@ -60,6 +59,6 @@ Sobre 6 251 artículos de 8 categorías, se extrajeron **8 temas latentes** con 
    ```bash
    git clone <URL_DEL_REPOSITORIO>
    ```
-2. Abrir `Eigenfaces_Olivetti_PCA.ipynb` en Google Colab o Jupyter Notebook.
+2. Abrir `trabajo5.ipynb` en Google Colab o Jupyter Notebook.
 3. Ejecutar las celdas en orden (`Entorno de ejecución > Ejecutar todas` en Colab). No se requieren archivos externos: los tres datasets se descargan automáticamente desde scikit-learn.
 
